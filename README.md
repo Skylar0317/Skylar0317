@@ -11,9 +11,12 @@
 
 I’m an adventurer at heart—whether it’s diving into new datasets, picking up a new language, or trying something that terrifies me just a little (like skydiving... or debugging a regression model).  
 
-I love challenges and thrive on unfamiliar territory. I believe growth comes from the unknown—but when it gets overwhelming, I take a deep breath… or a nap 😌
+I thrive on challenges and unfamiliarity. I believe growth comes from the unknown—but when things get overwhelming, I take a breath… or a nap 😌
 
-Academically, I work at the intersection of economics, statistics, and storytelling—exploring how humans and markets respond to change, technology, and uncertainty.
+Also, full disclosure: I believe potatoes are the ultimate form of resilience.  
+Fried, mashed, roasted, shredded—they’ve never let me down, and they’re the closest thing I have to a life philosophy.  
+
+Academically, I work at the intersection of economics, statistics, and storytelling—exploring how humans and markets respond to change, uncertainty, and technology.
 
 ---
 
@@ -34,8 +37,8 @@ Academically, I work at the intersection of economics, statistics, and storytell
 
 
 ## 🧸 Tools I Use (for staying human)
-🥔 Potatoes — fried, mashed, roasted, shredded. My #1 survival strategy.  
----
+---🥔 Potatoes — fried, mashed, roasted, shredded. My #1 survival strategy.  
+
 
 ## 🎬 Outside the Dataset
 
