@@ -19,7 +19,7 @@ Academically, I work at the intersection of economics, statistics, and storytell
 
 ## 📁 Featured Projects
 
-- **[NVIDIA AI Time Series Analysis]([https://github.com/Skylar0317/ts515-nvidia-ai-stock-analysis](https://github.com/Skylar0317/ts515-nvidia-ai-stock-analysis))**  
+- **[NVIDIA AI Time Series Analysis](https://github.com/Skylar0317/ts515-nvidia-ai-stock-analysis)](https://github.com/Skylar0317/ts515-nvidia-ai-stock-analysis)**  
   *Exploring structural breaks and dynamic responses in NVIDIA's stock after major AI events using SARIMAX and spectral models.*
 
 - **[[Digital Finance & SME Financing Efficiency (Thesis)](https://github.com/Skylar0317/DigitalFinance-SMEs-Liaoning](https://github.com/Skylar0317/DigitalFinance-SMEs-Liaoning))**  
