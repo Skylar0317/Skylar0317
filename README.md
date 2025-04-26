@@ -2,7 +2,7 @@
 
 🎓 Master’s student in Applied Economics & Econometrics @ USC  
 📊 Data-driven explorer with a soft spot for financial markets, storytelling dashboards, and structured chaos  
-🌐 Trilingual: English · 中文 · 日本語（勉強中 🇯🇵）  
+🌐 Language: English · 中文 · 日本語（勉強中 🇯🇵）  
 ✨ she/her  
 
 ---
