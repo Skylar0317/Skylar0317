@@ -31,9 +31,7 @@ Academically, I work at the intersection of economics, statistics, and storytell
 ---
 
 ## 🛠️ Tools I Use (for study & work) 
-**Languages:** Python, R, SQL, Stata, IBM SPSS  
-**Stack:** Jupyter · Tableau · Excel · Git · PowerPoint  
-**Methods:** Machine Learning · Data Visualization · GARCH
+- SQL, Python, R, Power BI, Tableau, IBM SPSS, Basic Machine Learning
 
 
 ## 🧸 Tools I Use (for staying human)
@@ -54,7 +52,7 @@ Academically, I work at the intersection of economics, statistics, and storytell
 ## ⚡ Fun Facts
 
 - I used to be a hardcore introvert (INTP all the way)... but recently, I’ve evolved into an E.  
-  Want to know how that happened? Let’s talk 😉  
+  Want to know how that happened?  
 - I still can’t ride a bike. Yet. (Maybe someday?)   
 - Proud owner of 23 pairs of funky, colorful socks.  
 
